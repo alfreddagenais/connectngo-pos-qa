@@ -1,1 +1,1 @@
-# App for Connect&Go Demo 
+# App for Connect&Go - QA 
